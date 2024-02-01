@@ -1,7 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import route from "./route.json";
 import MainLayout from "../components/layouts/MainLayout";
-
 import About from "../pages/About";
 import Resume from "../pages/Resume";
 import Portfolio from "../pages/Portfolio";
