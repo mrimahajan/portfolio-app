@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Outlet } from "react-router";
+=======
+import { Outlet } from "react-router-dom";
+>>>>>>> a743a50d64b246d73bf89832a1a2750c509b7465
 import AppHeader from "../AppHeader/AppHeader";
 
 const MainLayout = () => {
