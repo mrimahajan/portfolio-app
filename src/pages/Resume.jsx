@@ -45,7 +45,7 @@ const Resume = () => {
                     <em>Indian Institute of Technology, Kanpur</em>
                   </p>
                   <p>
-                    I have dome majors in Mechanical Engineering and minor in
+                    I have done my major in Mechanical Engineering and minor in
                     Industrial and Management Engineering.
                   </p>
                 </div>

@@ -15,7 +15,7 @@ const ContactUs = () => {
                   <div className="address">
                     <i className="bi bi-geo-alt"></i>
                     <h4>Location:</h4>
-                    <p>5th Floor, DLF Plaza Tower, Phase 1, Gurgaon, India</p>
+                    <p>S Block, Phase 3 , Gurgaon, Haryana , India</p>
                   </div>
 
                   <div className="email">
